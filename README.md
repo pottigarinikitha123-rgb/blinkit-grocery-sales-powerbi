@@ -1,4 +1,4 @@
-# ISM Project
+# Blinkit grocery data
 
 Power BI report for the ISM project.
 
